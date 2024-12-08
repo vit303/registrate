@@ -1,0 +1,16 @@
+{
+  "users": [
+    {
+      "username": "user",
+      "hashedPassword": "202cb962ac59075b964b07152d234b70",
+      "salt": "3dceab24727857a81debd0ab1feaac40",
+      "role": "user"
+    },
+    {
+      "username": "vit303",
+      "hashedPassword": "2d2ca7eedf739ef4c3800713ec482e1a",
+      "salt": "27d4bbc824c546d7b93afef16716dc04",
+      "role": "admin"
+    }
+  ]
+}
